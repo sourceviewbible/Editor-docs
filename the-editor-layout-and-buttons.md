@@ -1,6 +1,6 @@
-# The Editor layout and buttons
+# The Editor layout
 
-## Understanding the Editor layout and buttons
+## Understanding the Editor layout
 
 When you first log into the Editor you will see this opening dashboard:
 
