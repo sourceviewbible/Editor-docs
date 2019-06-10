@@ -5,6 +5,6 @@
 There are 3 main parts of the Bible text editor:
 
 1. [Toolbar](toolbar.md)
-2. Source =&gt; Recipient Buttons
+2. [Source =&gt; Recipient Buttons](source-greater-than-recipient-buttons.md)
 3. Text Area
 

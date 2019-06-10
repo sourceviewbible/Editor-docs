@@ -8,4 +8,5 @@
 * [Bible Text Editor](bible-text-editor/README.md)
   * [Toolbar](bible-text-editor/toolbar.md)
   * [Source =&gt; Recipient Buttons](bible-text-editor/source-greater-than-recipient-buttons.md)
+  * [Text Area](bible-text-editor/text-area.md)
 
