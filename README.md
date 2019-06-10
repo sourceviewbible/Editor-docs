@@ -10,7 +10,7 @@ The SourceView Bible Editor is a tool that formats the biblical text of a given 
 
 Here is a table of contents to help walk you through the Editor.
 
-* Creating an user account and logging in
+* [Creating an user account and logging in](creating-an-user-account.md)
 * Understanding the Editor layout and buttons
 * Functionality and Process:
   * Translation of SourceView content

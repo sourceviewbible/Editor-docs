@@ -18,7 +18,7 @@ Accounts are created manually by one of our staff. You will need to contact our 
 **Please email that information to: rob.wiebe@uofn.edu**  
 We will respond to your email as soon as we can. We thank you for your patience if there are any delays.
 
-Once your account is created, you will receive an email from our staff with a password. You can then **log into the Editor** [**here**](https://sourceviewbible.github.io/new-svb-editor/).
+Once your account is created, you will receive an email from our staff with a password. You can then **log into the Editor** [**here**](https://sourceviewbible.github.io/new-svb-editor/). The login screen will look like this:
 
-
+![](.gitbook/assets/screen-shot-2019-06-10-at-11.24.20-am.png)
 
