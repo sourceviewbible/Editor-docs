@@ -6,6 +6,6 @@
 * [Translation Pages](untitled.md)
 * [Introduction Translation](introduction-translation.md)
 * [Bible Text Editor](bible-text-editor/README.md)
-  * [Source =&gt; Recipient Buttons](bible-text-editor/source-greater-than-recipient-buttons.md)
   * [Toolbar](bible-text-editor/toolbar.md)
+  * [Source =&gt; Recipient Buttons](bible-text-editor/source-greater-than-recipient-buttons.md)
 
