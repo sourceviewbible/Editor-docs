@@ -10,11 +10,11 @@ When deleting a block separation, lower block will take on the properties of the
 
 LINE BREAKS:
 
-1. New block \(ENTER\)
+**New block \(ENTER\)**
 
+![](../../.gitbook/assets/ezgif.com-crop-2.gif)
 
-
-1. Paragraph break \(SHIFT + ENTER\)
+**Paragraph break \(SHIFT + ENTER\)**
 
 ![](../../.gitbook/assets/ezgif.com-crop.gif)
 
