@@ -6,19 +6,19 @@ Translation is a big part of the work that needs to be done. We are presenting t
 
 Sources are the unique characters in the Bible that speak. Every time there is a speaking part in the Bible we display who is speaking.
 
-### **Introductions:**
+### **Introductions**
 
 Each book of the Bible includes an introduction. These introductions provide basic information to help the reader better understand the book they will read. It also has a unique “SourceView Insights” section that provides some interesting observations that the SourceView Bible highlights. This translation work gets its own special part in the docs: [Introduction Translation](introduction-translation/).
 
-### **Book Names:**
+### **Book Names**
 
 Each book of the Bible needs to have the correct translation of its name for the references we display in the Reader.
 
-### **Segment Titles:**
+### **Segment Titles**
 
 The SourceView Reader \(which will display the work that you are doing\) provides the biblical text in 365 segments. Each segment has a unique title which will need to be translated.
 
-### **Questions:**
+### **Questions**
 
 Each segment in the Reader has its own set of questions that will need to be in the reader’s language.
 
