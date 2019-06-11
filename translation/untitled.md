@@ -2,12 +2,31 @@
 
 Translation is a big part of the work that needs to be done. We are presenting the Bible in many languages in a unique format: The SourceView Bible format. This format requires translation for the user in a given language to engage with. There are 6 major parts that need translation into the language you are working on:
 
-1. **Sources** Sources are the unique characters in the Bible that speak. Every time there is a speaking part in the Bible we display who is speaking.
-2. **Introductions:** Each book of the Bible includes an introduction. These introductions provide basic information to help the reader better understand the book they will read. It also has a unique “SourceView Insights” section that provides some interesting observations that the SourceView Bible highlights. This translation work gets its own special part in the docs: [Introduction Translation](introduction-translation/).
-3. **Book Names:** Each book of the Bible needs to have the correct translation of its name for the references we display in the Reader.
-4. **Segment Titles:** The SourceView Reader \(which will display the work that you are doing\) provides the biblical text in 365 segments. Each segment has a unique title which will need to be translated.
-5. **Questions:** Each segment in the Reader has its own set of questions that will need to be in the reader’s language.
-6. _SourceView Reader UI: \(coming soon\) ****These are different parts of the SourceView Reader user interface that need to be in the user’s language \(like buttons, instructions, etc.\)_
+### **Sources**
+
+Sources are the unique characters in the Bible that speak. Every time there is a speaking part in the Bible we display who is speaking.
+
+### **Introductions:**
+
+Each book of the Bible includes an introduction. These introductions provide basic information to help the reader better understand the book they will read. It also has a unique “SourceView Insights” section that provides some interesting observations that the SourceView Bible highlights. This translation work gets its own special part in the docs: [Introduction Translation](introduction-translation/).
+
+### **Book Names:**
+
+Each book of the Bible needs to have the correct translation of its name for the references we display in the Reader.
+
+### **Segment Titles:**
+
+The SourceView Reader \(which will display the work that you are doing\) provides the biblical text in 365 segments. Each segment has a unique title which will need to be translated.
+
+### **Questions:**
+
+Each segment in the Reader has its own set of questions that will need to be in the reader’s language.
+
+### _SourceView Reader UI: \(coming soon\)_
+
+_These are different parts of the SourceView Reader user interface that need to be in the user’s language \(like buttons, instructions, etc.\)_
+
+
 
 There are some basic instructions on each of those pages.
 
