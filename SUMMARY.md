@@ -14,5 +14,10 @@
     * [Source =&gt; Recipient Buttons](sourcification/bible-text-editor/source-greater-than-recipient-buttons.md)
     * [Text Area](sourcification/bible-text-editor/text-area/README.md)
       * [Quirks of the Editor](sourcification/bible-text-editor/text-area/quirks-of-the-editor.md)
-  * [Best Practices \(Formatting\)](sourcification/best-practices-formatting.md)
+  * [Best Practices \(Formatting\)](sourcification/best-practices-formatting/README.md)
+    * [Sourcify the text](sourcification/best-practices-formatting/sourcify-the-text.md)
+    * [Format Paragraphs](sourcification/best-practices-formatting/format-paragraphs.md)
+    * [Format Poetry](sourcification/best-practices-formatting/format-poetry.md)
+    * [Format Embedded Docs](sourcification/best-practices-formatting/format-embedded-docs.md)
+    * [Format Footnotes](sourcification/best-practices-formatting/format-footnotes.md)
 
