@@ -14,4 +14,5 @@
     * [Source =&gt; Recipient Buttons](sourcification/bible-text-editor/source-greater-than-recipient-buttons.md)
     * [Text Area](sourcification/bible-text-editor/text-area/README.md)
       * [Quirks of the Editor](sourcification/bible-text-editor/text-area/quirks-of-the-editor.md)
+  * [Best Practices \(Formatting\)](sourcification/best-practices-formatting.md)
 
