@@ -6,10 +6,18 @@ AUTOMATIC FORMATTING
 
 When deleting a block separation, lower block will take on the properties of the upper block.
 
+![](../../.gitbook/assets/ezgif.com-crop-1.gif)
+
 LINE BREAKS:
 
 1. New block \(ENTER\)
-2. Paragraph break \(SHIFT + ENTER\)
-3. Poetry line breaks \(CTRL + ENTER\)
-4. Paragraph indentation \(TAB\)
+
+
+
+1. Paragraph break \(SHIFT + ENTER\)
+
+![](../../.gitbook/assets/ezgif.com-crop.gif)
+
+1. Poetry line breaks \(CTRL + ENTER\)
+2. Paragraph indentation \(TAB\)
 
