@@ -44,8 +44,8 @@ Use this selector to choose the chapter you will format
 
 **Save Button**  
 ![](https://lh3.googleusercontent.com/VoRe6DKVt8QL2zgJOukBE-o-sm94Nm93MIjIHrHo_ZVKimmZXsjv80bXMoj0O7cDnvq8Fw06YK6Vprn22-yXSvWPG7iTarFPW3AJRdUJ89v3lgBSxJK0Gqk639YdaBP28Jb_-qQH)  
-****This button saves the data to our database. This button is the most important.  
-Note: if you are unable to save, an error popup will occur. There are 2 reasons for not being able to save your work:  
+****This button saves the data to our database. This button is the most important. If the button is green, there are changes to be saved. If the button is grey, the data is saved and up-to-date.  
+_**Note: if you are unable to save, an error popup will occur. There are 2 reasons for not being able to save your work:  
 1. You don’t have a internet connection  
-2. You don’t have permission to save that language/version \(this will be depending on the account that you are given\) Please contact the SourceView staff if you need access to save your language/version: rob.wiebe@uofn.edu
+2. You don’t have permission to save that language/version \(this will be depending on the account that you are given\) Please contact the SourceView staff if you need access to save your language/version:**_ rob.wiebe@uofn.edu
 
