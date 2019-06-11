@@ -6,7 +6,7 @@ Here are some things that will help you understand the functionality of the Edit
 
 When deleting a block separation, lower block will take on the properties of the upper block.
 
-![](../../.gitbook/assets/ezgif.com-crop-1.gif)
+![](../../../.gitbook/assets/ezgif.com-crop-1.gif)
 
 ### LINE BREAKS:
 
@@ -19,17 +19,17 @@ Below are some gifs that demonstrate what each one looks like. The capitalized w
 
 **New block \(ENTER\)**
 
-![](../../.gitbook/assets/ezgif.com-crop-2.gif)
+![](../../../.gitbook/assets/ezgif.com-crop-2.gif)
 
 **Paragraph break \(SHIFT + ENTER\)**  
 You must press both SHIFT and ENTER at the same time.
 
-![](../../.gitbook/assets/ezgif.com-crop.gif)
+![](../../../.gitbook/assets/ezgif.com-crop.gif)
 
 **Poetry line breaks \(CTRL + ENTER\)**  
 You must press both CTRL and ENTER at the same time.
 
-![](../../.gitbook/assets/ezgif.com-crop-3.gif)
+![](../../../.gitbook/assets/ezgif.com-crop-3.gif)
 
 **Paragraph indentation \(TAB\)**  
 I'm pretty sure you know what this is, so we didn't make a gif. These would be used at the beginning of a new block \(not all new blocks, just the ones that have paragraphs in your version of the bible\).
