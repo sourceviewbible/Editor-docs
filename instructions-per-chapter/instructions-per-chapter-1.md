@@ -50,7 +50,7 @@ Currently, only the books with links are available. We will continually be addin
 
 * Matthew 
 * Mark 
-* [Luke](instructions-per-chapter/luke/) 
+* [Luke](luke/) 
 * John 
 * Acts \(of the Apostles\) 
 * Romans 

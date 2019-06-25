@@ -4,7 +4,7 @@
 
 Poetry in the Bible has a unique format for SourceView. You may have already noticed that when you see poetry in the Reader. The way that this is accomplished is through the tagging of poetry text in the biblical text that you are formatting.
 
-There are SourceView defined poetry highlights, which can be found in the [Instructions Per Chapter](../../instructions-per-chapter-1.md) segment of this Editor documentation.
+There are SourceView defined poetry highlights, which can be found in the [Instructions Per Chapter](../../instructions-per-chapter/instructions-per-chapter-1.md) segment of this Editor documentation.
 
 ### How to format poetry
 

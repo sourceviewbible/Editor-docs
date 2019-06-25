@@ -21,10 +21,10 @@
     * [Format Embedded Docs](sourcification/best-practices-formatting/format-embedded-docs.md)
     * [Format Footnotes](sourcification/best-practices-formatting/format-footnotes.md)
 * [Proofreading](proofreading.md)
-* [Instructions Per Chapter](instructions-per-chapter-1.md)
 
 ## Instructions Per Chapter
 
+* [Instructions Per Chapter](instructions-per-chapter/instructions-per-chapter-1.md)
 * [Luke](instructions-per-chapter/luke/README.md)
   * [Luke 1](instructions-per-chapter/luke/luke-1.md)
   * [Luke 2](instructions-per-chapter/luke/luke-2.md)
