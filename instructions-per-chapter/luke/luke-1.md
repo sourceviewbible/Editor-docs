@@ -6,7 +6,10 @@ description: Description of Poetry highlights and embedded docs for this chapter
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Luk 1:46 | Luk 1:55 | “Oh, | forever.” |
+| Luk 1:68 | Luk 1:79 | &lt;v&gt; 68&lt;/v&gt; “ | peace.” |
 
 ## Embedded Docs
 
