@@ -20,6 +20,7 @@
     * [Format Poetry](sourcification/best-practices-formatting/format-poetry.md)
     * [Format Embedded Docs](sourcification/best-practices-formatting/format-embedded-docs.md)
     * [Format Footnotes](sourcification/best-practices-formatting/format-footnotes.md)
+* [Proofreading](proofreading.md)
 
 ## Instructions Per Chapter
 
