@@ -19,7 +19,7 @@ Below are some gifs that demonstrate what each one looks like. The capitalized w
 
 **New block \(ENTER\)**
 
-![](../../../.gitbook/assets/ezgif.com-crop-2.gif)
+![](../../../.gitbook/assets/ezgif.com-crop-2%20%281%29.gif)
 
 **Paragraph break \(SHIFT + ENTER\)**  
 You must press both SHIFT and ENTER at the same time.
