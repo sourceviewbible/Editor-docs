@@ -11,7 +11,7 @@ There are SourceView defined embedded documents, which can be found in the [Inst
 1. Select the text
 2. Click the "Embedded Docs" button
 
-Insert GIF
+![](../../.gitbook/assets/ezgif.com-crop-6.gif)
 
 The text that you formatted should take on a different font style when it is correctly tagged. 
 

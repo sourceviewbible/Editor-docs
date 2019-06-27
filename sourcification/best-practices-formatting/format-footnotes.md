@@ -24,11 +24,13 @@ Please make sure that the footnote text is _**EXACTLY**_ as it is in the text th
 
 ![](../../.gitbook/assets/screen-shot-2019-06-10-at-9.36.13-am.png)
 
+### Step \#6: Verify footnote tagging
+
 You can verify whether the footnote was saved or not by placing your mouse over the footnote marker in the biblical text. If a little tooltip popup appears with the footnote it was saved correctly.
 
 ![](../../.gitbook/assets/ezgif.com-crop%20%281%29.gif)
 
-There are some instances in which the "Save Footnote" button does not appear to be working. When you click on it the "Close" button may not appear. In that case, click "Cancel" to close the popup. Placing your mouse over the footnote marker in the biblical text, you can verify whether it was saved or not.
+There are some instances in which the "Save Footnote" button does not appear to be working. When you click on it the "Close" button may not appear. In that case, click "Cancel" to close the popup _\(we're still trying to figure out this tiny bug\)_. Placing your mouse over the footnote marker in the biblical text, you can verify whether it was saved or not.
 
-### Repeat Steps \#1-5 for each footnote
+### Repeat Steps \#1-6 for each footnote
 

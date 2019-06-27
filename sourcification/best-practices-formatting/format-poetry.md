@@ -22,7 +22,13 @@ The text that you formatted should have a pink highlight around it.
 
 All of this formatting is done programmatically in the Reader and the App, so we do not need you to do that. In fact, if you do these things it will cause the Reader and App to have incorrect formatting. THANK YOU!
 
-{% hint style="info" %}
-Note: Some language scripts may not change the font style. Please notify the SourceView team if this is the case for you: sourceviewteam@gmail.com
-{% endhint %}
+### Example:
+
+![](../../.gitbook/assets/ezgif.com-crop-4.gif)
+
+### Special formatting when ending with a paragraph break
+
+Many times there is a paragraph break after the end of a poetry section. When you create the paragraph the pink poetry formatting will also be applied to the paragraph break and indentation. It's important to remove that highlight by clicking the poetry button to toggle it off. See below as an example:
+
+![](../../.gitbook/assets/ezgif.com-crop-5.gif)
 

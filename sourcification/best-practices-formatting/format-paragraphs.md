@@ -5,25 +5,29 @@ Paragraphs are unique to each version of the Bible. We choose to honor the parag
 ## How to format paragraphs
 
 1. Place the cursor _**before**_ the first character in the paragraph
-2. Press SHIFT and ENTER \(this should create a line break and an automatic indentation\).
+2. Press **SHIFT** and **ENTER** \(this should create a line break and an automatic indentation\).
 
 {% hint style="info" %}
-Note: there should be no space between the indent and the first character \(whether it's a chapter/verse reference number  or the first letter of the first word\).
+_**Note: there should be no space between the indent and the first character \(whether it's a chapter/verse reference number  or the first letter of the first word\).**_
 {% endhint %}
 
 ![](../../.gitbook/assets/ezgif.com-crop-1%20%281%29.gif)
+
+{% hint style="info" %}
+_**Note: most chapters in the Bible begin as new paragraphs. It's important to make sure that there is a paragraph indent at the beginning of every chapter that begins with a paragraph. Use the**_ [_**TAB key**_](format-paragraphs.md#creating-breaks-on-the-keyboard) _**for that.**_
+{% endhint %}
 
 ## Special cases
 
 ### Using TAB
 
-If the beginning of the paragraph occurs in the beginning of a speech bubble or narrator block of text, the line break will already be there because of the differences of colored text. In order to display the paragraph break you will need to create the indentation. To do that you would just press the TAB key one \(1\) time.
+If the beginning of the paragraph occurs in the beginning of a speech bubble or narrator block of text, the line break will already be there because of the differences of colored text. In order to display the paragraph break you will need to create the indentation. To do that you would just press the **TAB** key one \(1\) time.
 
 ![](../../.gitbook/assets/ezgif.com-crop-2.gif)
 
 ### Poetry Paragraph Breaks
 
-Poetry has the same paragraph breaks as the prose \(regular text\). Therefore you would use the same command to create that paragraph break \(SHIFT and ENTER ... or ... just a TAB if it's the beginning of a new color block\).
+Poetry has the same paragraph breaks as the prose \(regular text\). Therefore you would use the same command to create that paragraph break \(**SHIFT** and **ENTER** ... or ... just a **TAB** if it's the beginning of a new color block\).
 
 ### Poetry Line Breaks 
 
@@ -35,19 +39,19 @@ Poetry line breaks _**DO NOT**_ include tab indentations. To achieve this regula
 
 {% tabs %}
 {% tab title="Paragraph Break" %}
-SHIFT and ENTER
+**SHIFT** and **ENTER**
 
 ![](../../.gitbook/assets/ezgif.com-crop-1%20%281%29.gif)
 {% endtab %}
 
 {% tab title="Line Break" %}
-CTRL and ENTER
+**CTRL** and **ENTER**
 
 ![](../../.gitbook/assets/ezgif.com-crop-3%20%281%29.gif)
 {% endtab %}
 
 {% tab title="Paragraph Indentation" %}
-TAB
+**TAB**
 
 ![](../../.gitbook/assets/ezgif.com-crop-2.gif)
 {% endtab %}
