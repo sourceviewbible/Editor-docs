@@ -15,10 +15,10 @@ Accounts are created manually by one of our staff. You will need to contact our 
 * **Bible language that you will be working on**
 * **Bible version \(name and copyright info would be the clearest for us\)**
 
-**Please email that information to: rob.wiebe@uofn.edu**  
+**Please email that information to: sourceviewteam@gmail.com**  
 We will respond to your email as soon as we can. We thank you for your patience if there are any delays.
 
-Once your account is created, you will receive an email from our staff with a password. You can then **log into the Editor** [**here**](https://sourceviewbible.github.io/new-svb-editor/). The login screen will look like this:
+Once your account is created, you will receive an email from our staff with a password. You can then **log into the Editor** [**here**](https://sourceview-editor.web.app/) **\(**[**https://sourceview-editor.web.app/**](https://sourceview-editor.web.app/)**\)**. The login screen will look like this:
 
 ![](.gitbook/assets/screen-shot-2019-06-10-at-11.24.20-am.png)
 
