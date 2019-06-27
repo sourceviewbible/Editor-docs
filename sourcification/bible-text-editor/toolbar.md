@@ -60,5 +60,5 @@ This button formats the verse numbers in superscript at the beginning of each ve
 ****This button saves the data to our database. This button is the most important. If the button is green, there are changes to be saved. If the button is grey, the data is saved and up-to-date.  
 _**Note: if you are unable to save, an error popup will occur. There are 2 reasons for not being able to save your work:  
 1. You don’t have a internet connection  
-2. You don’t have permission to save that language/version \(this will be depending on the account that you are given\) Please contact the SourceView staff if you need access to save your language/version:**_ rob.wiebe@uofn.edu
+2. You don’t have permission to save that language/version \(this will be depending on the account that you are given\) Please contact the SourceView staff if you need access to save your language/version: sourceviewteam@gmail.com**_
 
