@@ -11,9 +11,9 @@ When deleting a block separation, lower block will take on the properties of the
 ### LINE BREAKS:
 
 1. New Blocks
-2. Paragraph breaks
-3. Poetry line breaks
-4. Paragraph indentations
+2. [Paragraph breaks](../../best-practices-formatting/format-paragraphs.md#creating-breaks-on-the-keyboard)
+3. [Poetry line breaks](../../best-practices-formatting/format-paragraphs.md#creating-breaks-on-the-keyboard)
+4. [Paragraph indentations](../../best-practices-formatting/format-paragraphs.md#creating-breaks-on-the-keyboard)
 
 Below are some gifs that demonstrate what each one looks like. The capitalized words in parenthesis are the keys that are used to make these formatting actions.
 

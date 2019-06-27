@@ -36,6 +36,8 @@ Your user-like proofreaders should not be the general public, but a select group
 
 ## Getting Started With The Proofreading Process
 
+Please take the time to go through each step carefully, one at a time. 
+
 1. Verify the correct Source =&gt; Recipient information
 2. Verify Paragraph breaks and tabs in correct places
 3. Verify Poetry highlights
