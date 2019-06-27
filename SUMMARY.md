@@ -15,6 +15,7 @@
     * [Text Area](sourcification/bible-text-editor/text-area/README.md)
       * [Quirks of the Editor](sourcification/bible-text-editor/text-area/quirks-of-the-editor.md)
   * [Best Practices \(Formatting\)](sourcification/best-practices-formatting/README.md)
+    * [Using the English as the reference](sourcification/best-practices-formatting/using-the-english-as-the-reference.md)
     * [Sourcify the text](sourcification/best-practices-formatting/sourcify-the-text.md)
     * [Format Paragraphs](sourcification/best-practices-formatting/format-paragraphs.md)
     * [Format Poetry](sourcification/best-practices-formatting/format-poetry.md)
