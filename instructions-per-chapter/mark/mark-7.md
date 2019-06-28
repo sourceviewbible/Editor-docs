@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Mar 7:6 | Mar 7:7 | ‘These people | God.’ |
 
 ## Embedded Docs
 

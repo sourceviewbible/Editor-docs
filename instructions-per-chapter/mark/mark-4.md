@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Mar 4:12 | Mar 4:12 | ‘When they | .’” |
 
 ## Embedded Docs
 
