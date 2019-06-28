@@ -2,7 +2,10 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Heb 4:3 | Heb 4:3 | “In my | ,’” |
+| Heb 4:7 | Heb 4:7 | “Today when | hearts.” |
 
 ## Embedded Docs
 

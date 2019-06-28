@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Heb 8:8 | Heb 8:12 | “The day | sins.” |
 
 ## Embedded Docs
 

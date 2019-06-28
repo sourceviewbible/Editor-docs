@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Heb 6:14 | Heb 6:14 | &lt;v&gt; 14&lt;/v&gt; “ | number.” |
 
 ## Embedded Docs
 
