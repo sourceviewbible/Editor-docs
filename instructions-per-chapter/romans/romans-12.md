@@ -2,7 +2,10 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rom 12:19 | Rom 12:19 | “I will | Lord. |
+| Rom 12:20 | Rom 12:20 | “If your | heads.” |
 
 ## Embedded Docs
 

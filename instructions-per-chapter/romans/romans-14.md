@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rom 14:11 | Rom 14:11 | “‘As | .’” |
 
 ## Embedded Docs
 

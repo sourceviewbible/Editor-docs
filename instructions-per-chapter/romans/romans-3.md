@@ -2,7 +2,10 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rom 3:4 | Rom 3:4 | “You will | court.” |
+| Rom 3:10 | Rom 3:18 | “No one | all.” |
 
 ## Embedded Docs
 
