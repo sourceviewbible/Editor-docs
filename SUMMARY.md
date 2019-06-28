@@ -26,6 +26,9 @@
 ## Instructions Per Chapter
 
 * [Instructions Per Chapter](instructions-per-chapter/instructions-per-chapter-1.md)
+* [Matthew](instructions-per-chapter/matthew/README.md)
+  * [Matthew 1](instructions-per-chapter/matthew/matthew-1.md)
+  * [Matthew 2](instructions-per-chapter/matthew/matthew-2.md)
 * [Luke](instructions-per-chapter/luke/README.md)
   * [Luke 1](instructions-per-chapter/luke/luke-1.md)
   * [Luke 2](instructions-per-chapter/luke/luke-2.md)
