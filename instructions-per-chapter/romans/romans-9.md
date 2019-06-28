@@ -13,5 +13,5 @@
 
 ## Embedded Docs
 
-No embedded docs in this chapter
+The entire letter is an embedded doc
 
