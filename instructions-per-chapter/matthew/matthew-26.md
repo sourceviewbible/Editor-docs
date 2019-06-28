@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Mat 26:31 | Mat 26:31 | ‘God will | .’ |
 
 ## Embedded Docs
 

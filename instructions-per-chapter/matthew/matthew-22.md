@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Mat 22:44 | Mat 22:44 | &lt;v&gt; 44&lt;/v&gt; ‘ | .’ |
 
 ## Embedded Docs
 

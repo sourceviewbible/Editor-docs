@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Mat 24:29 | Mat 24:29 | &lt;v&gt; 29&lt;/v&gt; “ | shaken. |
 
 ## Embedded Docs
 
