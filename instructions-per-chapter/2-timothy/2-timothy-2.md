@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| 2Ti 2:11 | 2Ti 2:13 | If we die | he is. |
 
 ## Embedded Docs
 

@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| 1Ti 3:16 | 1Ti 3:16 | Christ was revealed | in glory. |
 
 ## Embedded Docs
 
