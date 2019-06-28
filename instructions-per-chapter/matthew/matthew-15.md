@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Mat 15:8 | Mat 15:9 | &lt;v&gt; 8&lt;/v&gt; ‘ | .’” |
 
 ## Embedded Docs
 
