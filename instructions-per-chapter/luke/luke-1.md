@@ -1,7 +1,3 @@
----
-description: Description of Poetry highlights and embedded docs for this chapter
----
-
 # Luke 1
 
 ## Poetry Highlights
