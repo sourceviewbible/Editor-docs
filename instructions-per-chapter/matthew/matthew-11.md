@@ -2,7 +2,10 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Mat 11:10 | Mat 11:10 | ‘Look, | .’ |
+| Mat 11:17 | Mat 11:17 | &lt;v&gt; 17&lt;/v&gt; ‘ | mourn.’ |
 
 ## Embedded Docs
 
