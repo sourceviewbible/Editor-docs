@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Mat 12:18 | Mat 12:21 | &lt;v&gt; 18&lt;/v&gt; “ | world.” |
 
 ## Embedded Docs
 
