@@ -10,7 +10,11 @@ Our role is to format it appropriately. Part of the SourceView format includes t
 2. the reference information of the Bible \(book names\)
 3. the SourceView tools that contain the content \(like SourceView Reader segment titles and questions\)
 
-For these things we use a type of translation called "Dynamic Translation" which aims not so much at lit
+For these things we use a type of translation called "Dynamic Translation". Here's a video that may help you understand what we're aiming for in our translations. This video is about the NIV Bible, but it highlights the ways the translators were thinking when they translate words and concepts into other languages.
+
+{% embed url="https://youtu.be/ixLB8qhOevA" %}
+
+
 
 
 
