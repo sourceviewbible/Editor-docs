@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Act 15:16 | Act 15:18 | &lt;v&gt; 16&lt;/v&gt; ‘ | ago.’ |
 
 ## Embedded Docs
 
