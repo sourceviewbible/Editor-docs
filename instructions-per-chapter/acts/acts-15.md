@@ -8,5 +8,7 @@
 
 ## Embedded Docs
 
-No embedded docs in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Act 15:23 | Act 15:29 | "This letter | Farewell." |
 
