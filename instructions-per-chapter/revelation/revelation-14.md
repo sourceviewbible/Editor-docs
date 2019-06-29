@@ -6,5 +6,7 @@ No poetry highlights in this chapter
 
 ## Embedded Docs
 
-There are no embedded docs in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rev 14:13 | Rev 14:13 | Blessed are those | from now on. |
 

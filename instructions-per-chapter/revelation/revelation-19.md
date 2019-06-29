@@ -11,5 +11,7 @@
 
 ## Embedded Docs
 
-There are no embedded docs in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rev 19:9 | Rev 19:9 | Blessed are those | of the Lamb. |
 
