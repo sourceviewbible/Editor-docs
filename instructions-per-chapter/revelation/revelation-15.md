@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rev 15:3 | Rev 15:4 | “Great and | revealed.” |
 
 ## Embedded Docs
 

@@ -2,7 +2,10 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rev 11:15 | Rev 11:15 | “The world | ever.” |
+| Rev 11:17 | Rev 11:18 | “We give | earth.” |
 
 ## Embedded Docs
 

@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rev 13:9 | Rev 13:10 | &lt;v&gt; 9&lt;/v&gt; Anyone with | the sword. |
 
 ## Embedded Docs
 
