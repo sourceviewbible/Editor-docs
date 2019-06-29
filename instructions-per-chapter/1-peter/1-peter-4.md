@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| 1Pe 4:18 | 1Pe 4:18 | “If the | sinners?” |
 
 ## Embedded Docs
 

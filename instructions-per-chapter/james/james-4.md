@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Jam 4:6 | Jam 4:6 | “God opposes | humble.” |
 
 ## Embedded Docs
 

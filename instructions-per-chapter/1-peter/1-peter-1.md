@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| 1Pe 1:24 | 1Pe 1:25 | “People are | forever.” |
 
 ## Embedded Docs
 
