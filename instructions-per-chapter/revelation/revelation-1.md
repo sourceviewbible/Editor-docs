@@ -2,7 +2,9 @@
 
 ## Poetry Highlights
 
-No poetry highlights in this chapter
+| Starting Verse | Ending Verse | Starting Word | Ending Word |
+| :--- | :--- | :--- | :--- |
+| Rev 1:7 | Rev 1:7 | &lt;v&gt; 7&lt;/v&gt; Look! | ! Amen! |
 
 ## Embedded Docs
 
