@@ -1,6 +1,8 @@
 # SphereView Key Passages
 
-One of the SourceView Bible data sets is called SphereView, which is a view of the Spheres of Influence in Society in the text, highlighted when a particular text relates to a sphere of influence. Out of all the highlights in Scripture, there are 52 key passages for each of the spheres of influence and another 52 key passages which would be considered foundational for all the spheres.
+![](.gitbook/assets/img_8501.jpg)
+
+[One of the SourceView Bible](http://sourceviewbible.com/#aspheres) data sets is called SphereView, which is a view of the Spheres of Influence in Society in the text, highlighted when a particular text relates to a sphere of influence. Out of all the highlights in Scripture, there are 52 key passages for each of the spheres of influence and another 52 key passages which would be considered foundational for all the spheres.
 
 ### A little bit of touch up work
 
