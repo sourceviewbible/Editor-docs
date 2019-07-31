@@ -9,4 +9,5 @@ Formatting Process:
 3. [Format Poetry](format-poetry.md)
 4. [Format Embedded Docs](format-embedded-docs.md)
 5. [Format Footnotes](format-footnotes.md)
+6. [Move on to Key Passage Cleanup](../../sphereview-key-passages.md)
 

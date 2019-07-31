@@ -22,6 +22,7 @@
     * [Format Embedded Docs](sourcification/best-practices-formatting/format-embedded-docs.md)
     * [Format Footnotes](sourcification/best-practices-formatting/format-footnotes.md)
 * [Proofreading](proofreading.md)
+* [SphereView Key Passages](sphereview-key-passages.md)
 
 ## Instructions Per Chapter
 
